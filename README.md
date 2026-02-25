@@ -13,7 +13,7 @@ I currently use:
 Arch:
 
   ```
-  sudo pacman -Sy hyprland quickshell rofi kitty && yay -Sy hyprshot noctalia-shell
+  yay -Syu hyprland quickshell rofi kitty hyprshot noctalia-shell
   ```
 After running that command and everything finishes drag the config folder into ~/.config/
 
